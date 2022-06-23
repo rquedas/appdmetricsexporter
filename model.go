@@ -2,8 +2,6 @@ package appdmetricsexporter
 
 import (
 	"strings"
-
-	"go.opentelemetry.io/collector/model/pdata"
 	"go.opentelemetry.io/collector/pdata/pmetric"
 )
 
