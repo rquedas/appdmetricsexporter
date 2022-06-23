@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	typeStr = "appdmetricsexporter"
+	typeStr = "appdmetrics"
 	defaultPort = 8293
 )
 
